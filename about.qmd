@@ -1,0 +1,32 @@
+---
+title: "关于我 | 杜永琪"
+format:
+  html:
+    theme: sandstone
+    toc: true
+    toc-title: 目录
+    toc-location: left
+---
+
+<div style="background: #f5f8ff; padding: 25px; border-radius: 10px; margin-bottom: 25px; text-align: center; border: 1px solid #e6edff;">
+<h1 style="color: #2c3e50; margin: 0; font-weight: 500;">关于我</h1>
+</div>
+
+## <span style="color: #4a6fa5; font-weight: 500;">📌 个人特质</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #4a6fa5; margin-bottom: 20px; line-height: 1.7;">
+- ✅ 做事踏实、严谨细致、责任心强
+- 📚 主动学习、积极探索、科研思维活跃
+- 🤝 善于沟通、乐于团队协作
+</div>
+
+## <span style="color: #4a6fa5; font-weight: 500;">📈 学习目标</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #2980b9; margin-bottom: 20px; line-height: 1.7;">
+- 🎯 <span style="color: #27ae60; font-weight: 400;">扎实掌握资源利用与植物保护专业知识</span>
+- 🔬 <span style="color: #2980b9; font-weight: 400;">熟练完成数据分析与科研课题</span>
+- 💪 <span style="color: #8e44ad; font-weight: 400;">积累科研经验，提升综合竞争力</span>
+</div>
+
+## <span style="color: #4a6fa5; font-weight: 500;">🚀 未来方向</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #27ae60; margin-bottom: 20px; line-height: 1.7;">
+聚焦<span style="color: #2980b9; font-weight: 400;">资源环境与植物保护</span>领域，提升<span style="color: #8e44ad; font-weight: 400;">科研实践能力</span>，为<span style="color: #27ae60; font-weight: 400;">生态农业与资源保护</span>贡献力量。
+</div>

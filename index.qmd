@@ -1,21 +1,42 @@
 ---
-title: "D2RS-2026spring 数据分析"
+title: "杜永琪 | 个人主页"
+format:
+  html:
+    theme: sandstone
+    toc: true
+    toc-title: 目录
+    toc-location: left
 ---
 
-## 课程介绍
+<div style="background: #f5f8ff; padding: 25px; border-radius: 10px; margin-bottom: 25px; text-align: center; border: 1px solid #e6edff;">
+<h1 style="color: #2c3e50; margin: 0; font-weight: 500;">杜永琪</h1>
+<p style="color: #34495e; font-size: 1.1em; margin: 12px 0 0 0; font-weight: 400;">资源利用与植物保护 · 硕士研究生</p>
+<p style="color: #7f8c8d; margin: 6px 0 0 0; font-size: 0.95em;">华中农业大学 | 学号：2025303120112</p>
+</div>
 
-本项目用于分析 D2RS-2026spring 课程的 GitHub Issue 数据。
+## <span style="color: #4a6fa5; font-weight: 500;">📩 基本信息</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #4a6fa5; margin-bottom: 20px;">
+- 邮箱：<span style="color: #2980b9;">1764076045@qq.com</span>
+- 籍贯：湖北武汉
+- 政治面貌：共青团员
+</div>
 
-## 数据来源
+## <span style="color: #4a6fa5; font-weight: 500;">🎓 教育背景</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #27ae60; margin-bottom: 20px;">
+<strong style="color: #27ae60; font-weight: 500;">硕士研究生在读</strong><br>
+华中农业大学 · 资源利用与植物保护专业<br>
+2025.9 – 至今
+</div>
 
-- **Issue #1**: 学生加入申请 - 收集学号、姓名和感兴趣方向
-- **Issue #2**: AI模型性能投票 - 收集学生对不同AI模型的排序
+## <span style="color: #4a6fa5; font-weight: 500;">🌟 个人简介</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #2980b9; margin-bottom: 20px; line-height: 1.7;">
+作为资源利用与植物保护专业的硕士研究生，我秉持严谨的科研态度，专注于生态农业、植物保护与数据分析方向。具备良好的科研思维与团队协作能力，致力于将理论与实践结合，提升专业素养。
+</div>
 
-## 分析报告
-
-- [学生名单分析](issue1_students.qmd)
-- [AI模型投票分析](issue2_voting.qmd)
-
-## 数据更新
-
-数据每天自动更新。
+## <span style="color: #4a6fa5; font-weight: 500;">🛠 专业能力</span>
+<div style="background: #f8f9fa; padding: 20px; border-radius: 8px; border-left: 3px solid #8e44ad; margin-bottom: 20px;">
+- <span style="color: #27ae60; font-weight: 400;">资源利用</span>、<span style="color: #27ae60; font-weight: 400;">植物保护</span>、<span style="color: #27ae60; font-weight: 400;">生态农业研究</span>
+- <span style="color: #2980b9; font-weight: 400;">数据整理</span>、<span style="color: #2980b9; font-weight: 400;">统计分析</span>、<span style="color: #2980b9; font-weight: 400;">基础建模</span>
+- <span style="color: #8e44ad; font-weight: 400;">Quarto</span>、<span style="color: #8e44ad; font-weight: 400;">Markdown</span>、<span style="color: #8e44ad; font-weight: 400;">Git/GitHub 管理</span>
+- <span style="color: #16a085; font-weight: 400;">科研文档撰写</span>、<span style="color: #16a085; font-weight: 400;">项目整理</span>
+</div>
